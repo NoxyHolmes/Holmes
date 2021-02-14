@@ -1,4 +1,4 @@
-updurl := "полученная ссылка"
+updurl := "https://github.com/NoxyHolmes/Holmes/blob/main/Beta%202.5.exe?raw=true"
 SplashTextOn, , 60,Автообновление, Обновление. Ожидайте..`nНастраиваем систему обновления.
 RegRead, put2, HKEY_CURRENT_USER, SoftWare\SAMP, put2
 sleep, 5000
